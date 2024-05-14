@@ -1,0 +1,7 @@
+1.frames.py
+2.box.py
+3.select correct bounding box from the previous output and save it to a folder
+4.select appropriate frames of the correct bounding box using frameslct.py and save it to a folder
+5.using arrange.py to sort bounding box images and save it to a folder(1)
+6.using facecropping.py to extract the face part from the bounding box and save it to a folder(2)
+7.using context.py to extract the context part from bounding box and save it to a folder(3)
