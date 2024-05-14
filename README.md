@@ -9,20 +9,24 @@ In response to the growing concern over deepfake technology's impact on media cr
 
 
 Objective: 
-.To build a deep fake detection model to detect deepfake videos and deepfake 
- images.
+
+To build a deep fake detection model to detect deepfake videos and deepfake images.
 
 GUI: 
 
-.Python Tkinter will be used as GUI
-.GUI will contain a page for to upload video and image
+Python Tkinter will be used as GUI
+
+GUI will contain a page for to upload video and image
 
 Notes:
 We will use publically available Faceforensic++ dataset for our project implementation.
 
 Steps
+-------
 1) Load Dataset
+  
 2) Preprocessing & Face Detection
+
 - Loading pretrained Face detection model
 - Perform face detection
 - Cropping of bounding boxes 
@@ -32,6 +36,7 @@ Steps
 
   
 3) Customized Deep Learning Models
+
 a) Face Network 
 - Create Customized Face Network model
 - Input segmented faces and get its feature vectors
@@ -50,6 +55,7 @@ e) Classification Network
 
   
 4) Prediction Process
+
 - Input video or image
 - Loading pretrained Face detection model
 - Load Trained model
