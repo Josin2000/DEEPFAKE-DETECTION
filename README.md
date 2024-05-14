@@ -8,15 +8,16 @@ Scenarios where deepfakes are used to create political distress, fake news, reve
 In response to the growing concern over deepfake technology's impact on media credibility, the project presents a comprehensive DFD system.
 
 
-Objective
-To build a deep fake detection model to detect deepfake videos and deepfake 
-images.
+Objective: 
+.To build a deep fake detection model to detect deepfake videos and deepfake 
+ images.
 
-GUI
-Python Tkinter will be used as GUI
-GUI will contain a page for to upload video and image
+GUI: 
 
-Notes
+.Python Tkinter will be used as GUI
+.GUI will contain a page for to upload video and image
+
+Notes:
 We will use publically available Faceforensic++ dataset for our project implementation.
 
 Steps
@@ -72,6 +73,7 @@ Software Specification
 • Tool: Python IDLE
 • Python: version3
 • Operating System: Windows 10
+
 • Front End: Python Tkinter
 
 
