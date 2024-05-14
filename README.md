@@ -26,8 +26,9 @@ Steps
 - Perform Face and Context Segmentation
 - Applying resizing
 - Split dataset into training and testing set
-3) Customized Deep Learning Models
+
   
+3) Customized Deep Learning Models
 a) Face Network 
 - Create Customized Face Network model
 - Input segmented faces and get its feature vectors
@@ -43,6 +44,8 @@ e) Classification Network
 - Training the model
 - Calculate Accuracy of trained model
 - Save Trained model
+
+  
 4) Prediction Process
 - Input video or image
 - Loading pretrained Face detection model
@@ -57,10 +60,11 @@ e) Classification Network
 - Prediction using the loaded model
 - View results(fake or real)
 
-  Hardware Specification
+Hardware Specification
 • Processor: i5 or i7 
 • RAM: 8GB (Minimum)
 • Hard Disk: 500GB or above
+
 
 Software Specification
 • Tool: Python IDLE
@@ -68,8 +72,8 @@ Software Specification
 • Operating System: Windows 10
 • Front End: Python Tkinter
 
-contact via
 
+contact via
 
 : linkedin.com/in/josin-jose-721324214   
 : josinkottayil123@gmail.com
