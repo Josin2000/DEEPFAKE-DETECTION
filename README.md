@@ -27,6 +27,7 @@ Steps
 - Applying resizing
 - Split dataset into training and testing set
 3) Customized Deep Learning Models
+  
 a) Face Network 
 - Create Customized Face Network model
 - Input segmented faces and get its feature vectors
