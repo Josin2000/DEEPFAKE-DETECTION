@@ -1,4 +1,6 @@
 DEEPFAKE DETECTION FOR HUMAN FACE IMAGES AND VIDEOS
+---------------------------------------------------
+
 Deepfake is a technique for fake media synthesis based on AI. Deepfakes are created by combining and superimposing existing images and videos onto source images or videos using a deeplearning technique , GAN.
 This project explores the technology behind deepfakes, the growing threat they pose, and the innovative methods and tools developed to combat this formidable challenge.
 The growing computation power has made creating an indistinguishable synthesized video called as deepfakes very simple.
